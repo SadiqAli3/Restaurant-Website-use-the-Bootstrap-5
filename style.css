@@ -412,6 +412,10 @@ Responsive Css:
 
 /*Tablet view*/
 @media screen and (max-width: 992px) {
+     #logo {
+        width: 20vw;
+        margin-left: 1rem;
+    }
     .main-heading {
         padding: 4rem;
     }
